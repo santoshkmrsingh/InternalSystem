@@ -9,12 +9,9 @@
             "environmentName": "Production",
             "startupObjectId": 22,
             "breakOnError": true,
-            "breakOnRecordWrite": false,
-            "launchBrowser": true,
+            "breakOnRecordWrite": false,            
             "enableSqlInformationDebugger": true,
             "enableLongRunningSqlStatements": true,
-            "longRunningSqlStatementsThreshold": 500,
-            "numberOfSqlStatements": 10
         },
         {
             "name": "AFZ_Sandbox",
